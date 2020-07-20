@@ -1,0 +1,23 @@
+FILM,FILM_ID,COUNTRY,COUNTRY_ID,VOTER,VOTER_ID,DIRECTOR,DIRECTOR_ID
+,,Australia,79f3a1fa-fb9e-4b06-acff-6d172a1344a6,Quentin Turnour,182,,
+,4ce2b6bf4befa,,,,182,,
+,4ce2b6a7a801b,,,,182,,
+,4ce2b7276d3d3,,,,182,,
+,4ce2b6af779a6,,,,182,,
+,4ce2b6a2991ce,,,,182,,
+,4ce2b6ac69d47,,,,182,,
+,4ce2b6b3291db,,,,182,,
+,4ce2b6b48f642,,,,182,,
+,4ce2b6b7d5c6e,,,,182,,
+,4ce2b72a49470,,,,182,,
+The Best Years of Our Lives,4ce2b6bf4befa,USA,ee9280ec-e52d-46d1-b368-21205b28cfb2,,,William Wyler,575a7c89-5817-41e8-950a-7a55546a49ac
+Citizen Kane,4ce2b6a7a801b,USA,ee9280ec-e52d-46d1-b368-21205b28cfb2,,,Orson Welles,bc7c6128-e80c-48bb-8544-484d30a8c93e
+Hitler: A Film from Germany,4ce2b7276d3d3,,,,,Hans Jurgen Syberberg,91567d39-5717-4646-9404-ae8a2a5ced81
+Madame de…,4ce2b6af779a6,France,f6c2c7cc-1c18-413e-84a0-ac666459956b,,,Max Ophüls,5ff1c9f7-369b-4047-b15b-70d3c6a09717
+Madame de…,4ce2b6af779a6,Italy,00d520f7-b0f9-48c8-a4ce-08167ff50715,,,Max Ophüls,5ff1c9f7-369b-4047-b15b-70d3c6a09717
+Minamata: The Victims and their World,4ce2b6a2991ce,Japan,c3cb3715-265e-4a29-8702-300db7882818,,,Tsuchimoto Noriaki,3b06768e-e9e1-4b2e-92a8-bda6d4cd8396
+The Only Son,4ce2b6ac69d47,Japan,c3cb3715-265e-4a29-8702-300db7882818,,,Ozu Yasujirô ,ed4a9a57-b85b-4db8-b678-5285586b2cb9
+Playtime,4ce2b6b3291db,France,f6c2c7cc-1c18-413e-84a0-ac666459956b,,,Jacques Tati,41ed7d27-23c1-4ed2-bd12-cc5ff05a01e4
+Rome Open City,4ce2b6b48f642,Italy,00d520f7-b0f9-48c8-a4ce-08167ff50715,,,Roberto Rossellini,26ef06db-35b8-49e8-ac3b-0994d59a6267
+Shadows of Our Forgotten Ancestors,4ce2b6b7d5c6e,USSR,27556274-eee6-4e61-ad89-c02732de0e7a,,,Sergei Parajanov,166d5577-be64-4539-acd7-e850c456645f
+A Touch of Zen,4ce2b72a49470,Taiwan,09dbe888-2ca4-4d8a-bac0-6c318aa619b3,,,King Hu,e1d04683-b7a4-4235-bbc8-f0755244de9b

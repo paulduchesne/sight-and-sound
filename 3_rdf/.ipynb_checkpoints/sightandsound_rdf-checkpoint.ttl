@@ -1,0 +1,132 @@
+<http://localhost:8080/source/182> <urn:absolute:testontology#of_country> <http://localhost:8080/source/79f3a1fa-fb9e-4b06-acff-6d172a1344a6> .
+<http://localhost:8080/source/79f3a1fa-fb9e-4b06-acff-6d172a1344a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Country> .
+<http://localhost:8080/source/79f3a1fa-fb9e-4b06-acff-6d172a1344a6> <http://www.w3.org/2000/01/rdf-schema#label> "Australia" .
+<http://localhost:8080/source/182> <http://www.w3.org/2000/01/rdf-schema#label> "Quentin Turnour" .
+<http://localhost:8080/source/182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Person> .
+
+<http://localhost:8080/source/4ce2b6bf4befa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Film> .
+<http://localhost:8080/source/182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Person> .
+
+<http://localhost:8080/source/4ce2b6a7a801b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Film> .
+<http://localhost:8080/source/182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Person> .
+
+<http://localhost:8080/source/182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Person> .
+<http://localhost:8080/source/4ce2b7276d3d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Film> .
+
+<http://localhost:8080/source/4ce2b6af779a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Film> .
+<http://localhost:8080/source/182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Person> .
+
+<http://localhost:8080/source/4ce2b6a2991ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Film> .
+<http://localhost:8080/source/182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Person> .
+
+<http://localhost:8080/source/4ce2b6ac69d47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Film> .
+<http://localhost:8080/source/182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Person> .
+
+<http://localhost:8080/source/4ce2b6b3291db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Film> .
+<http://localhost:8080/source/182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Person> .
+
+<http://localhost:8080/source/4ce2b6b48f642> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Film> .
+<http://localhost:8080/source/182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Person> .
+
+<http://localhost:8080/source/4ce2b6b7d5c6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Film> .
+<http://localhost:8080/source/182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Person> .
+
+<http://localhost:8080/source/4ce2b72a49470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Film> .
+<http://localhost:8080/source/182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Person> .
+
+<http://localhost:8080/source/575a7c89-5817-41e8-950a-7a55546a49ac> <http://www.w3.org/2000/01/rdf-schema#label> "William Wyler" .
+<http://localhost:8080/source/575a7c89-5817-41e8-950a-7a55546a49ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Person> .
+<http://localhost:8080/source/ee9280ec-e52d-46d1-b368-21205b28cfb2> <http://www.w3.org/2000/01/rdf-schema#label> "USA" .
+<http://localhost:8080/source/ee9280ec-e52d-46d1-b368-21205b28cfb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Country> .
+<http://localhost:8080/source/4ce2b6bf4befa> <urn:absolute:testontology#of_country> <http://localhost:8080/source/ee9280ec-e52d-46d1-b368-21205b28cfb2> .
+<http://localhost:8080/source/4ce2b6bf4befa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Film> .
+<http://localhost:8080/source/4ce2b6bf4befa> <urn:absolute:testontology#directed_by> <http://localhost:8080/source/575a7c89-5817-41e8-950a-7a55546a49ac> .
+<http://localhost:8080/source/4ce2b6bf4befa> <http://www.w3.org/2000/01/rdf-schema#label> "The Best Years of Our Lives" .
+
+<http://localhost:8080/source/4ce2b6a7a801b> <http://www.w3.org/2000/01/rdf-schema#label> "Citizen Kane" .
+<http://localhost:8080/source/bc7c6128-e80c-48bb-8544-484d30a8c93e> <http://www.w3.org/2000/01/rdf-schema#label> "Orson Welles" .
+<http://localhost:8080/source/ee9280ec-e52d-46d1-b368-21205b28cfb2> <http://www.w3.org/2000/01/rdf-schema#label> "USA" .
+<http://localhost:8080/source/ee9280ec-e52d-46d1-b368-21205b28cfb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Country> .
+<http://localhost:8080/source/bc7c6128-e80c-48bb-8544-484d30a8c93e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Person> .
+<http://localhost:8080/source/4ce2b6a7a801b> <urn:absolute:testontology#of_country> <http://localhost:8080/source/ee9280ec-e52d-46d1-b368-21205b28cfb2> .
+<http://localhost:8080/source/4ce2b6a7a801b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Film> .
+<http://localhost:8080/source/4ce2b6a7a801b> <urn:absolute:testontology#directed_by> <http://localhost:8080/source/bc7c6128-e80c-48bb-8544-484d30a8c93e> .
+
+<http://localhost:8080/source/91567d39-5717-4646-9404-ae8a2a5ced81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Person> .
+<http://localhost:8080/source/91567d39-5717-4646-9404-ae8a2a5ced81> <http://www.w3.org/2000/01/rdf-schema#label> "Hans Jurgen Syberberg" .
+<http://localhost:8080/source/4ce2b7276d3d3> <urn:absolute:testontology#directed_by> <http://localhost:8080/source/91567d39-5717-4646-9404-ae8a2a5ced81> .
+<http://localhost:8080/source/4ce2b7276d3d3> <http://www.w3.org/2000/01/rdf-schema#label> "Hitler: A Film from Germany" .
+<http://localhost:8080/source/4ce2b7276d3d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Film> .
+
+<http://localhost:8080/source/5ff1c9f7-369b-4047-b15b-70d3c6a09717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Person> .
+<http://localhost:8080/source/4ce2b6af779a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Film> .
+<http://localhost:8080/source/5ff1c9f7-369b-4047-b15b-70d3c6a09717> <http://www.w3.org/2000/01/rdf-schema#label> "Max Ophüls" .
+<http://localhost:8080/source/f6c2c7cc-1c18-413e-84a0-ac666459956b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Country> .
+<http://localhost:8080/source/4ce2b6af779a6> <urn:absolute:testontology#directed_by> <http://localhost:8080/source/5ff1c9f7-369b-4047-b15b-70d3c6a09717> .
+<http://localhost:8080/source/4ce2b6af779a6> <urn:absolute:testontology#of_country> <http://localhost:8080/source/f6c2c7cc-1c18-413e-84a0-ac666459956b> .
+<http://localhost:8080/source/4ce2b6af779a6> <http://www.w3.org/2000/01/rdf-schema#label> "Madame de…" .
+<http://localhost:8080/source/f6c2c7cc-1c18-413e-84a0-ac666459956b> <http://www.w3.org/2000/01/rdf-schema#label> "France" .
+
+<http://localhost:8080/source/5ff1c9f7-369b-4047-b15b-70d3c6a09717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Person> .
+<http://localhost:8080/source/4ce2b6af779a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Film> .
+<http://localhost:8080/source/5ff1c9f7-369b-4047-b15b-70d3c6a09717> <http://www.w3.org/2000/01/rdf-schema#label> "Max Ophüls" .
+<http://localhost:8080/source/4ce2b6af779a6> <urn:absolute:testontology#of_country> <http://localhost:8080/source/00d520f7-b0f9-48c8-a4ce-08167ff50715> .
+<http://localhost:8080/source/00d520f7-b0f9-48c8-a4ce-08167ff50715> <http://www.w3.org/2000/01/rdf-schema#label> "Italy" .
+<http://localhost:8080/source/4ce2b6af779a6> <urn:absolute:testontology#directed_by> <http://localhost:8080/source/5ff1c9f7-369b-4047-b15b-70d3c6a09717> .
+<http://localhost:8080/source/4ce2b6af779a6> <http://www.w3.org/2000/01/rdf-schema#label> "Madame de…" .
+<http://localhost:8080/source/00d520f7-b0f9-48c8-a4ce-08167ff50715> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Country> .
+
+<http://localhost:8080/source/c3cb3715-265e-4a29-8702-300db7882818> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Country> .
+<http://localhost:8080/source/3b06768e-e9e1-4b2e-92a8-bda6d4cd8396> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Person> .
+<http://localhost:8080/source/c3cb3715-265e-4a29-8702-300db7882818> <http://www.w3.org/2000/01/rdf-schema#label> "Japan" .
+<http://localhost:8080/source/4ce2b6a2991ce> <urn:absolute:testontology#directed_by> <http://localhost:8080/source/3b06768e-e9e1-4b2e-92a8-bda6d4cd8396> .
+<http://localhost:8080/source/4ce2b6a2991ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Film> .
+<http://localhost:8080/source/4ce2b6a2991ce> <urn:absolute:testontology#of_country> <http://localhost:8080/source/c3cb3715-265e-4a29-8702-300db7882818> .
+<http://localhost:8080/source/4ce2b6a2991ce> <http://www.w3.org/2000/01/rdf-schema#label> "Minamata: The Victims and their World" .
+<http://localhost:8080/source/3b06768e-e9e1-4b2e-92a8-bda6d4cd8396> <http://www.w3.org/2000/01/rdf-schema#label> "Tsuchimoto Noriaki" .
+
+<http://localhost:8080/source/c3cb3715-265e-4a29-8702-300db7882818> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Country> .
+<http://localhost:8080/source/c3cb3715-265e-4a29-8702-300db7882818> <http://www.w3.org/2000/01/rdf-schema#label> "Japan" .
+<http://localhost:8080/source/4ce2b6ac69d47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Film> .
+<http://localhost:8080/source/4ce2b6ac69d47> <http://www.w3.org/2000/01/rdf-schema#label> "The Only Son" .
+<http://localhost:8080/source/ed4a9a57-b85b-4db8-b678-5285586b2cb9> <http://www.w3.org/2000/01/rdf-schema#label> "Ozu Yasujirô " .
+<http://localhost:8080/source/4ce2b6ac69d47> <urn:absolute:testontology#of_country> <http://localhost:8080/source/c3cb3715-265e-4a29-8702-300db7882818> .
+<http://localhost:8080/source/ed4a9a57-b85b-4db8-b678-5285586b2cb9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Person> .
+<http://localhost:8080/source/4ce2b6ac69d47> <urn:absolute:testontology#directed_by> <http://localhost:8080/source/ed4a9a57-b85b-4db8-b678-5285586b2cb9> .
+
+<http://localhost:8080/source/4ce2b6b3291db> <urn:absolute:testontology#directed_by> <http://localhost:8080/source/41ed7d27-23c1-4ed2-bd12-cc5ff05a01e4> .
+<http://localhost:8080/source/f6c2c7cc-1c18-413e-84a0-ac666459956b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Country> .
+<http://localhost:8080/source/4ce2b6b3291db> <urn:absolute:testontology#of_country> <http://localhost:8080/source/f6c2c7cc-1c18-413e-84a0-ac666459956b> .
+<http://localhost:8080/source/4ce2b6b3291db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Film> .
+<http://localhost:8080/source/f6c2c7cc-1c18-413e-84a0-ac666459956b> <http://www.w3.org/2000/01/rdf-schema#label> "France" .
+<http://localhost:8080/source/4ce2b6b3291db> <http://www.w3.org/2000/01/rdf-schema#label> "Playtime" .
+<http://localhost:8080/source/41ed7d27-23c1-4ed2-bd12-cc5ff05a01e4> <http://www.w3.org/2000/01/rdf-schema#label> "Jacques Tati" .
+<http://localhost:8080/source/41ed7d27-23c1-4ed2-bd12-cc5ff05a01e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Person> .
+
+<http://localhost:8080/source/26ef06db-35b8-49e8-ac3b-0994d59a6267> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Person> .
+<http://localhost:8080/source/4ce2b6b48f642> <urn:absolute:testontology#of_country> <http://localhost:8080/source/00d520f7-b0f9-48c8-a4ce-08167ff50715> .
+<http://localhost:8080/source/4ce2b6b48f642> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Film> .
+<http://localhost:8080/source/00d520f7-b0f9-48c8-a4ce-08167ff50715> <http://www.w3.org/2000/01/rdf-schema#label> "Italy" .
+<http://localhost:8080/source/26ef06db-35b8-49e8-ac3b-0994d59a6267> <http://www.w3.org/2000/01/rdf-schema#label> "Roberto Rossellini" .
+<http://localhost:8080/source/00d520f7-b0f9-48c8-a4ce-08167ff50715> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Country> .
+<http://localhost:8080/source/4ce2b6b48f642> <urn:absolute:testontology#directed_by> <http://localhost:8080/source/26ef06db-35b8-49e8-ac3b-0994d59a6267> .
+<http://localhost:8080/source/4ce2b6b48f642> <http://www.w3.org/2000/01/rdf-schema#label> "Rome Open City" .
+
+<http://localhost:8080/source/4ce2b6b7d5c6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Film> .
+<http://localhost:8080/source/166d5577-be64-4539-acd7-e850c456645f> <http://www.w3.org/2000/01/rdf-schema#label> "Sergei Parajanov" .
+<http://localhost:8080/source/27556274-eee6-4e61-ad89-c02732de0e7a> <http://www.w3.org/2000/01/rdf-schema#label> "USSR" .
+<http://localhost:8080/source/4ce2b6b7d5c6e> <http://www.w3.org/2000/01/rdf-schema#label> "Shadows of Our Forgotten Ancestors" .
+<http://localhost:8080/source/27556274-eee6-4e61-ad89-c02732de0e7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Country> .
+<http://localhost:8080/source/4ce2b6b7d5c6e> <urn:absolute:testontology#directed_by> <http://localhost:8080/source/166d5577-be64-4539-acd7-e850c456645f> .
+<http://localhost:8080/source/166d5577-be64-4539-acd7-e850c456645f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Person> .
+<http://localhost:8080/source/4ce2b6b7d5c6e> <urn:absolute:testontology#of_country> <http://localhost:8080/source/27556274-eee6-4e61-ad89-c02732de0e7a> .
+
+<http://localhost:8080/source/e1d04683-b7a4-4235-bbc8-f0755244de9b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Person> .
+<http://localhost:8080/source/09dbe888-2ca4-4d8a-bac0-6c318aa619b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Country> .
+<http://localhost:8080/source/4ce2b72a49470> <urn:absolute:testontology#of_country> <http://localhost:8080/source/09dbe888-2ca4-4d8a-bac0-6c318aa619b3> .
+<http://localhost:8080/source/4ce2b72a49470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <urn:absolute:testontology#Film> .
+<http://localhost:8080/source/09dbe888-2ca4-4d8a-bac0-6c318aa619b3> <http://www.w3.org/2000/01/rdf-schema#label> "Taiwan" .
+<http://localhost:8080/source/4ce2b72a49470> <urn:absolute:testontology#directed_by> <http://localhost:8080/source/e1d04683-b7a4-4235-bbc8-f0755244de9b> .
+<http://localhost:8080/source/e1d04683-b7a4-4235-bbc8-f0755244de9b> <http://www.w3.org/2000/01/rdf-schema#label> "King Hu" .
+<http://localhost:8080/source/4ce2b72a49470> <http://www.w3.org/2000/01/rdf-schema#label> "A Touch of Zen" .
+
