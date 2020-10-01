@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="urn:absolute:sight-and-sound-ontology#"
+     xml:base="urn:absolute:sight-and-sound-ontology"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="urn:absolute:sight-and-sound-ontology"/>
+
+
+
+    <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+
+
+    <!-- http://www.w3.org/2002/07/owl#topObjectProperty -->
+
+    <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#topObjectProperty">
+        <rdfs:domain rdf:resource="urn:absolute:sight-and-sound-ontology#Person"/>
+    </rdf:Description>
+
+
+
+    <!-- urn:absolute:sight-and-sound-ontology#directed_by -->
+
+    <owl:ObjectProperty rdf:about="urn:absolute:sight-and-sound-ontology#directed_by">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="urn:absolute:sight-and-sound-ontology#Film"/>
+        <rdfs:range rdf:resource="urn:absolute:sight-and-sound-ontology#Person"/>
+    </owl:ObjectProperty>
+
+
+
+    <!-- urn:absolute:sight-and-sound-ontology#has_gender -->
+
+    <owl:ObjectProperty rdf:about="urn:absolute:sight-and-sound-ontology#has_gender">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="urn:absolute:sight-and-sound-ontology#Person"/>
+        <rdfs:range rdf:resource="urn:absolute:sight-and-sound-ontology#Gender"/>
+    </owl:ObjectProperty>
+
+
+
+    <!-- urn:absolute:sight-and-sound-ontology#has_profession -->
+
+    <owl:ObjectProperty rdf:about="urn:absolute:sight-and-sound-ontology#has_profession">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="urn:absolute:sight-and-sound-ontology#Person"/>
+        <rdfs:range rdf:resource="urn:absolute:sight-and-sound-ontology#Profession"/>
+    </owl:ObjectProperty>
+
+
+
+    <!-- urn:absolute:sight-and-sound-ontology#of_country -->
+
+    <owl:ObjectProperty rdf:about="urn:absolute:sight-and-sound-ontology#of_country">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="urn:absolute:sight-and-sound-ontology#Film"/>
+        <rdfs:domain rdf:resource="urn:absolute:sight-and-sound-ontology#Person"/>
+        <rdfs:range rdf:resource="urn:absolute:sight-and-sound-ontology#Country"/>
+    </owl:ObjectProperty>
+
+
+
+    <!-- urn:absolute:sight-and-sound-ontology#voted_by -->
+
+    <owl:ObjectProperty rdf:about="urn:absolute:sight-and-sound-ontology#voted_by">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="urn:absolute:sight-and-sound-ontology#Film"/>
+        <rdfs:range rdf:resource="urn:absolute:sight-and-sound-ontology#Person"/>
+    </owl:ObjectProperty>
+
+
+
+    <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+
+
+    <!-- urn:absolute:sight-and-sound-ontology#imdb_identifier -->
+
+    <owl:DatatypeProperty rdf:about="urn:absolute:sight-and-sound-ontology#imdb_identifier">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="urn:absolute:sight-and-sound-ontology#Film"/>
+        <rdfs:domain rdf:resource="urn:absolute:sight-and-sound-ontology#Person"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+
+
+
+    <!-- urn:absolute:sight-and-sound-ontology#of_year -->
+
+    <owl:DatatypeProperty rdf:about="urn:absolute:sight-and-sound-ontology#of_year">
+        <rdfs:domain rdf:resource="urn:absolute:sight-and-sound-ontology#Film"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+
+
+
+    <!-- urn:absolute:sight-and-sound-ontology#wikidata_identifier -->
+
+    <owl:DatatypeProperty rdf:about="urn:absolute:sight-and-sound-ontology#wikidata_identifier">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="urn:absolute:sight-and-sound-ontology#Film"/>
+        <rdfs:domain rdf:resource="urn:absolute:sight-and-sound-ontology#Person"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+
+
+
+    <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+
+
+    <!-- urn:absolute:sight-and-sound-ontology#Country -->
+
+    <owl:Class rdf:about="urn:absolute:sight-and-sound-ontology#Country"/>
+
+
+
+    <!-- urn:absolute:sight-and-sound-ontology#Film -->
+
+    <owl:Class rdf:about="urn:absolute:sight-and-sound-ontology#Film"/>
+
+
+
+    <!-- urn:absolute:sight-and-sound-ontology#Gender -->
+
+    <owl:Class rdf:about="urn:absolute:sight-and-sound-ontology#Gender"/>
+
+
+
+    <!-- urn:absolute:sight-and-sound-ontology#Person -->
+
+    <owl:Class rdf:about="urn:absolute:sight-and-sound-ontology#Person"/>
+
+
+
+    <!-- urn:absolute:sight-and-sound-ontology#Profession -->
+
+    <owl:Class rdf:about="urn:absolute:sight-and-sound-ontology#Profession"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
